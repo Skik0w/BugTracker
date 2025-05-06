@@ -1,19 +1,26 @@
-**Bug Tracking System**  
-*Team project focused on building a web-based application for managing and tracking software issues.*
+# LepszaSrednia-Project
+Team project developed by Lepsza Średnia.
 
-**Project Description:**  
-A bug tracking system designed to help IT teams efficiently report, monitor, and manage software issues and bugs throughout the development process.
+## Opis projektu:
+System do zarządzania zgłoszeniami błędów i problemów (Bug Tracking System) to aplikacja umożliwiająca zespołom IT efektywne zgłaszanie, śledzenie i zarządzanie błędami oraz innymi problemami w oprogramowaniu.
 
-**Key Features:**  
-- **Issue registration** – Submit new issues with description, category, and priority.  
-- **Issue assignment** – Assign issues to specific team members.  
-- **Status tracking** – Monitor the progress of each issue (e.g., New, In Progress, Resolved, Closed).  
-- **Priority management** – Set issue priority levels (e.g., Low, Medium, High, Critical).  
-- **Change history** – View a history of changes to each issue, including status updates and description edits.  
-- **Advanced filtering and search** – Locate issues using detailed filtering and search options.  
-- **User authentication** – Register new users with role-based access and encrypted passwords, and require login to submit or manage issues.
+## Funkcjonalności:
+- **Rejestrowanie zgłoszeń** – Możliwość dodawania nowych zgłoszeń o błędach z opisem, priorytetem i kategorią.
+- **Przypisywanie zgłoszeń** – Przypisywanie błędów do konkretnych członków zespołu.
+- **Śledzenie statusu** – Monitorowanie statusów zgłoszeń (np. Nowe, W toku, Rozwiązane, Zamknięte).
+- **Priorytetyzacja zgłoszeń** – Oznaczanie zgłoszeń priorytetami (np. Niski, Średni, Wysoki, Krytyczny).
+- **Historia zmian** – Śledzenie zmian w zgłoszeniu, np. zmiana statusu, edycja opisu.
+- **Filtrowanie i wyszukiwanie** – Zaawansowane opcje filtrowania i wyszukiwania zgłoszeń.
+- **Rejestracja/logowanie** - Tworzenie nowego użytkownika posiadającego odpowiednie role i zaszyfrowane hasło w bazie danych, a także logowanie przed dokonaniem zgłoszenia.
 
-**Technologies Used:**  
-- **Frontend:** Angular / TypeScript  
-- **Backend:** Java / Spring Boot  
+## Technologie:
+- **Frontend:** Angular / TypeScript
+- **Backend:** Java / Spring Boot
 - **Database:** PostgreSQL
+
+## Team Members:
+- **Jakub Krupicki**  
+- **Bartosz Kowalski**  
+- **Filip Maksymium**  
+- **Kamil Leleniewski**  
+- **Remigiusz Leś**   
